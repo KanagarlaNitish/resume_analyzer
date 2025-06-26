@@ -1,6 +1,7 @@
 streamlit
 PyPDF2
-python-docx
+docx2txt
+PyMuPDF
 
 //How to run
 python -m streamlit run app.py
