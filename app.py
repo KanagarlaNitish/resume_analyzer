@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF
+#import fitz  # PyMuPDF
 import io
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
